@@ -1,5 +1,6 @@
-- 🔭 I’m currently working on Customer acquisition by analyzing customer driving data providing insights for better decision through Power BI and predictive modelling AI techniques.
+
 - 👋 Hi, I’m Krishna Epili
+- 🔭 I’m currently working on Customer acquisition by analyzing customer driving data providing insights for better decision through Power BI and predictive modelling AI techniques.
 - 👀 I’m interested in Data analytics and CRM implementation
 - 🌱 I’m currently learning advanced AI algorithms to increase predictive accuracy models 
 - 💞️ I’m looking to collaborate on contributing to python based projects and mentoring.
